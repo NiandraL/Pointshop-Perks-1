@@ -1,8 +1,8 @@
 # Pointshop(1) Perks for Garry's Mod
 
 # Features:
-*Customizable perks
-*Base for creating your own perks
+* Customizable perks
+* Base for creating your own perks
 
 # Perks:
 * "Bloody Money" - Gives player X amount of points for kills
